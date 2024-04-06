@@ -1,0 +1,13 @@
+.navBar{
+  display: flex;
+  padding: 10px;
+  background-color: antiquewhite;
+
+}
+.navBar li{
+  list-style: none;
+  padding: 0px 10px;
+}
+.navBar a{
+  text-decoration: none;
+}
